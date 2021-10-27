@@ -6,6 +6,10 @@ A Collection of small node projects for learning Node.js and its implementation 
 Project 1- Hastebin 
 Install the necessary dependencies to run it on your local server
 the following commands should help you install them
+
+**Go into the particular node project folder and run the commands inside the folder**
+
+
 Install the node modules
 
 `npm init -y`
