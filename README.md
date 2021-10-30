@@ -28,3 +28,10 @@ run the server as local host
 
 Then go over to your browser and type the following url
 `http://localhost:3000`
+
+
+***For the RESTAPI Project***
+the localhost is at port 5000
+
+therefore go to 
+`http://localhost:5000`
